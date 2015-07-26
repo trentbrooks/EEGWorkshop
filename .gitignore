@@ -6,6 +6,9 @@
 utilities/BrainWaveOSC_OSX_0.93/*
 utilities/MuseEEG/
 
+#ignore pdf slides
+eeg-slides.pdf
+
 ### Xcode ###
 build/
 *.pbxuser
