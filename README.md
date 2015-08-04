@@ -1,3 +1,5 @@
+![Image of Moire demo](https://github.com/trentbrooks/EEGWorkshop/example-screenshot-1.png)
+
 ## Visualising Brainwaves with EEG Workshop ##
 
 Code / examples from the Creative Coding Sydney workshop - 26th July 2015. http://codeoncanvas.cc/events/cc_syd_2/. All code examples are for either the MyndPlay Brainband / Mindwave Mobile, or Muse EEG headsets.

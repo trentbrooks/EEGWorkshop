@@ -30,6 +30,7 @@ void ofApp::setup(){
 //--------------------------------------------------------------
 void ofApp::update(){
     
+    //return;
     while (receiver.hasWaitingMessages()) {
         
         ofxOscMessage msg;
