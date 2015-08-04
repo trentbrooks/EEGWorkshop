@@ -1,4 +1,4 @@
-![Image of Moire demo](https://github.com/trentbrooks/EEGWorkshop/example-screenshot-1.png)
+![Image of Moire demo](https://raw.githubusercontent.com/trentbrooks/EEGWorkshop/master/example-screenshot-1.png)
 
 ## Visualising Brainwaves with EEG Workshop ##
 
